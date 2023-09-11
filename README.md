@@ -1,5 +1,5 @@
 ## Links to My Class Notes
-[class-01](https://edgarsvalkovskis.github.io/class-01/))
+[class-01](https://edgarsvalkovskis.github.io/class-01/)
 
 
 
