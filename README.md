@@ -3,11 +3,11 @@
 ##How To Become a **Full Stack** Web Developer?#
 
 1. Learn the basic programming languages
-+ Understand development frameworks and third-party libraries
-+ Learn back-end languages
-+ Learn the basics of design
-+ Learn databases and caching
-+ Build a professional network
+2. Understand development frameworks and third-party libraries
+3. Learn back-end languages
+4. Learn the basics of design
+5. Learn databases and caching
+6. Build a professional network
 
 
 
