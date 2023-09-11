@@ -3,7 +3,7 @@
 
 ## How To Become a **Full Stack** Web Developer?
 
-##GROWTH MINDSET
+## GROWTH MINDSET
 
 
 
