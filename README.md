@@ -1,5 +1,5 @@
 ## Links to My Class Notes
-[class-01](/Class-01.md)
+[class-01](https://edgarsvalkovskis.github.io/readme/Class-01)
 
 
 
