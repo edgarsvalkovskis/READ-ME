@@ -1,2 +1,2 @@
-#Awesome Things What Can We Do With Markdown!
-##*MARK UP BASICS*
+###Awesome Things What Can We Do With Markdown!
+##MARK UP BASICS*
