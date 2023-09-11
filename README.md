@@ -1,5 +1,5 @@
 ### my class notes
-[class-01](https://github.com/edgarsvalkovskis/class-01.git
+[class-01](https://github.com/edgarsvalkovskis/class-01.git)
 
 
 ![full stack image](techedimage.png).
