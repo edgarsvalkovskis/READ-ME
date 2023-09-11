@@ -1,5 +1,6 @@
 ## Links to My Class Notes
-[class-01](https://github.com/edgarsvalkovskis/readme/class-01.git)
+[class-01](https://edgarsvalkovskis.github.io/class-01/))
+
 
 
 ![full stack image](techedimage.png).
