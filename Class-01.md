@@ -31,8 +31,15 @@ a single #
 
 six ######
 
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
-How do you create a link with Markdown?
+#### When making text bold or italicized for emphasis, it is best practice to use which symbol?
+
+Asterisk 
+
+#### How do you create a link with Markdown?
+
+![link](htttp://yourlink.com)
+
+
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
 [MARKUP SYNTAX](https://www.markdownguide.org/basic-syntax/)
