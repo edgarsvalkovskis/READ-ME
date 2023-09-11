@@ -1,5 +1,6 @@
 ## Links to My Class Notes
 [class-01](https://edgarsvalkovskis.github.io/readme/Class-01)
+[class-02](https://edgarsvalkovskis.github.io/readme/Class-02)
 
 
 
