@@ -1,4 +1,4 @@
-[class-01](https://link-url-here.org)
+[class-01](https://github.com/edgarsvalkovskis/class-01.git))
 
 
 ![full stack image](techedimage.png).
