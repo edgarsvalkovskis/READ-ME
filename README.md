@@ -1,4 +1,4 @@
-### My Class Notes
+## Links to My Class Notes
 [class-01](https://github.com/edgarsvalkovskis/class-01.git)
 
 
