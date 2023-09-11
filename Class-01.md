@@ -43,5 +43,5 @@ What are the three symbols you can use to create an unordered (bulleted) list wi
 
      asterisk ( * ), hyphen ( - ), or plus ( + 
 
-[MARKUP SYNTAX](https://www.markdownguide.org/basic-syntax/)
+[CLICK FOR MARKUP SYNTAX](https://www.markdownguide.org/basic-syntax/)
 
