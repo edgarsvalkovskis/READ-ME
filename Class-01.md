@@ -1,7 +1,7 @@
 ## Links To My Class Notes
 [Home](https://edgarsvalkovskis.github.io/readme)
 
-### Markdown Notes
+## Markdown Notes
 
 ### What is Markdown?
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents
