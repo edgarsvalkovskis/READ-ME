@@ -1,6 +1,6 @@
 ## Links To My Class Notes
 [Home](https://edgarsvalkovskis.github.io/readme)
-[class-02](https://edgarsvalkovskis.github.io/readme/Class-01)
+[class-02](https://edgarsvalkovskis.github.io/readme/Class-02)
 
 
 ## Markdown Notes
