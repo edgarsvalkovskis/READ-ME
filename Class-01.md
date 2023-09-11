@@ -21,7 +21,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 #### What symbol will create a heading in Markdown?
 
-a dash (#)
+a dash #
 
 #### How many do you need to create the largest heading?
 
