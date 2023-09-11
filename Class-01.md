@@ -1,3 +1,6 @@
+Links To My Class Notes
+[Home](https://edgarsvalkovskis.github.io/readme)
+
 ### Markdown Notes
 - Markdown can be used for everything.
 - People use it to create
