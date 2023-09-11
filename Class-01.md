@@ -20,6 +20,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 -Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
 
 ###What symbol will create a heading in Markdown?
+
 (#)
 
 How many do you need to create the largest heading?
