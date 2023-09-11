@@ -7,4 +7,10 @@
 - A growth mindset is **synonymous** with a **love of learning**.
 - By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
+### Reminders To Myself
+
+1. Stay focused
+2. The strugle will last for 9 months keep grinding
+3. Either this or going back delivering pizzas for living
+
 [Click To Find Out More About Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
