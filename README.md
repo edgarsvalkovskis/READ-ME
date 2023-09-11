@@ -13,4 +13,4 @@
 
 # section heading
 
-[Click To Find Out More About 'Growth Mindset'](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Click To Find Out More About Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
