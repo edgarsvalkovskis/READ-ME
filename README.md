@@ -1,6 +1,6 @@
 ![full stack image](techedimage.png).
 
-## How To Become a **Full Stack** Web Developer?#
+## How To Become a **Full Stack** Web Developer?
 
 1. Learn the basic programming languages
 2. Understand development frameworks and third-party libraries
