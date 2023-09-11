@@ -38,9 +38,10 @@ Asterisk
 #### How do you create a link with Markdown?
 
     ![link](htttp://yourlink.com)
-
-
+    
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+asterisk ( * ), hyphen ( - ), or plus ( + 
 
 [MARKUP SYNTAX](https://www.markdownguide.org/basic-syntax/)
 
