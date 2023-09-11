@@ -22,4 +22,4 @@
 
 # section heading
 
-[http://effectif.com/nesta](https://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+[CLICK TO VISIT THE MARKDOWN SHEET]([https://nestacms.com/docs/creating-content/markdown-cheat-sheet](https://www.freecodecamp.org/news/markdown-cheatsheet/)https://www.freecodecamp.org/news/markdown-cheatsheet/)
