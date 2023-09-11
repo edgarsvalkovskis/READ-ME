@@ -1,7 +1,9 @@
 ###Awesome Things What Can We Do With Markdown!
 
-## MARK UP BASICS
+## MARKDOWN BASICS
 
 *italic*
 **bold**
 ***bold italic***
+
+# section heading
