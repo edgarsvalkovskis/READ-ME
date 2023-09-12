@@ -18,6 +18,5 @@ What do the following commands do?
 - pwd = Print Working Directory/Where are we currently.
 - ls = List the contents of a directory.
 - cd = Change Directories - ie. move to another directory.
-
-mkdir
-touch
+- mkdir = Create directories.
+- touch = create, change and modify timestamps of a file.
