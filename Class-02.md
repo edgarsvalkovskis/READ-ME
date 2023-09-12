@@ -14,10 +14,9 @@ extensions available when you need them;
 
 #### What are 4 important features to look for in a text editor?
 What do the following commands do?
-- *pwd*
-  Print Working Directory/Where are we currently.
-- ls
-List the contents of a directory.
+
+pwd = Print Working Directory/Where are we currently.
+ls = List the contents of a directory.
 cd
 mkdir
 touch
