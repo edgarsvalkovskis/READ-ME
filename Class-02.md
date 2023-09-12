@@ -12,11 +12,12 @@ fatigue);
 4. the ability to choose from a healthy selection of
 extensions available when you need them;
 
-Answer
-What are four important features to look for in a text editor?
+#### What are 4 important features to look for in a text editor?
 What do the following commands do?
-pwd
-ls
+- pwd
+  Print Working Directory/Where are we currently.
+- ls
+List the contents of a directory.
 cd
 mkdir
 touch
